@@ -1,0 +1,12 @@
+x = (34, 45, 22, 3334, 65, 432)
+y = (908, 882, 345, 88, 122)
+print(x)
+print(y)
+print(x+y)
+# 35rgghsdf
+x = ('python java rimbuchi ottukadd kiwikesh')
+y = ('rmeo', 'ikok', 'loki', 'thor anderson')
+print(x.replace("r", "p"))
+print(x.replace("0", "yh"))
+print(x)
+print(y)
